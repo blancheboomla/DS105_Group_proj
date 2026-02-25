@@ -1,0 +1,1 @@
+Requests Pandas matplotlib tqdm ipython-sql mysql-connector-python tensorflow Flask Bertopic Dropbox plotly itables
